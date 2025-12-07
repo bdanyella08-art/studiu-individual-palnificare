@@ -1,2 +1,2 @@
-# studiu-individual-palnificarea
+# studiu-individual-palnificare
 studiu individual
